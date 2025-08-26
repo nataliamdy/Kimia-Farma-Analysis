@@ -84,8 +84,7 @@ Analisis penjualan Kimia Farma berdasarkan data transaksi, produk, dan kantor ca
 SELECT
   t.transaction_id,
   t.date,
-  t.branch_id,[Uploading Data Dictionary.md…]()
-
+  t.branch_id,
   kc.branch_name,
   kc.kota,
   kc.provinsi,
@@ -136,5 +135,4 @@ JOIN
 
 ## ✍️ Author
 **Natalia Medya Lifa Ir Seno**  
-[LinkedIn](https://www.linkedin.com/in/nataliamlis)
-nataliamedya16@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nataliamlis) / nataliamedya16@gmail.com
