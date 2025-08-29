@@ -77,7 +77,7 @@ Analisis penjualan Kimia Farma berdasarkan data transaksi, produk, dan kantor ca
 ## 🔍 Hasil Analisis
 
 📌 Link dashboard Looker Studio:  
-👉 [Lihat Dashboard]([https://lookerstudio.google.com/reporting/e1ec9d52-e4a6-45df-bc5d-45e9061a66c2](https://lookerstudio.google.com/reporting/402f7798-b039-46b9-b894-32a633608722))
+👉 [Lihat Dashboard](https://lookerstudio.google.com/reporting/402f7798-b039-46b9-b894-32a633608722)
 
 📌 [Dashboard Screenshot]
 <img width="1446" height="812" alt="Screenshot 2025-08-29 133545" src="https://github.com/user-attachments/assets/116e3450-385d-4e55-88fb-3eb339390f31" />
