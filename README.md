@@ -80,7 +80,7 @@ Analisis penjualan Kimia Farma berdasarkan data transaksi, produk, dan kantor ca
 👉 [Lihat Dashboard](https://lookerstudio.google.com/reporting/402f7798-b039-46b9-b894-32a633608722)
 
 📌 [Dashboard Screenshot]
-<img width="1446" height="812" alt="Screenshot 2025-08-29 133545" src="https://github.com/user-attachments/assets/116e3450-385d-4e55-88fb-3eb339390f31" />
+<img width="1442" height="810" alt="Screenshot 2025-08-30 095545" src="https://github.com/user-attachments/assets/b03f215d-7ff1-413c-8b2d-109acc2952ae" />
 
 
 [Query Analisis Kimia Farma.sql](https://github.com/user-attachments/files/21986982/Query.Analisis.Kimia.Farma.sql)
